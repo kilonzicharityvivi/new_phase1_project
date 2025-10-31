@@ -4,7 +4,7 @@ Welcome to the **Aircraft Safety Analysis Project**, conducted as part of Phase 
 
 ---
 
-## 🧭 Overview
+## Overview
 
 This project leverages Aviation_Data.csv to uncover patterns in aircraft safety and identify risk factors across manufacturers and aircraft types. The key objective is to **support business strategy and procurement decisions** in aviation by:
 
@@ -15,7 +15,7 @@ This project leverages Aviation_Data.csv to uncover patterns in aircraft safety 
 
 ---
 
-## 💼 Business Understanding
+## Business Understanding
 
 ### 👥 Stakeholder
 A business expanding into the aviation sector, particularly interested in **procurement strategy** and **operational risk**.
@@ -29,7 +29,7 @@ A business expanding into the aviation sector, particularly interested in **proc
 
 ---
 
-## 📊 Data Understanding and Analysis
+## Data Understanding and Analysis
 
 ### 🔍 Source of Data
 
@@ -37,7 +37,7 @@ A business expanding into the aviation sector, particularly interested in **proc
 - **Format**: CSV file
 - **Columns Used**: Event Date, Aircraft Make, Model, Category, Injury Severity, etc.
 
-### 📦 Description of Data
+### Description of Data
 
 The dataset comprises over 83,000 accident records from various countries, spanning more than 30 columns, covering aircraft specifications, incident details, weather conditions, and outcomes (injuries/fatalities).
 
@@ -50,7 +50,7 @@ Key preprocessing steps included:
 
 ---
 
-### 📈 Visualizations
+### Visualizations
 
 #### 1. Accidents by Year  
 This bar chart shows annual accident counts to help understand **overall industry trends** and external risk factors.
